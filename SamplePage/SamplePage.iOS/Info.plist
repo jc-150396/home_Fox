@@ -45,12 +45,16 @@
 		<string>Icon-Small@3x.png</string>
 	</array>
 	<key>UILaunchStoryboardName</key>
-	<string>LaunchScreen.storyboard</string>
+	<string>(設定なし)</string>
 	<key>NSLocationAlwaysUsageDescription</key>
 	<string>Please allow CoolBreeze to use your corrent location.</string>
 	<key>NSCameraUsageDescription</key>
 	<string>カメラを利用してスキャンします</string>
 	<key>MinimumOSVersion</key>
 	<string>10.0</string>
+	<key>XSLaunchImageAssets</key>
+	<string>Resources/Media.xcassets/LaunchImages.launchimage</string>
+	<key>XSAppIconAssets</key>
+	<string>Resources/Media.xcassets/AppIcons.appiconset</string>
 </dict>
 </plist>

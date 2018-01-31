@@ -59,6 +59,8 @@ namespace SamplePage
 
             var layout = new StackLayout { HorizontalOptions = LayoutOptions.CenterAndExpand, VerticalOptions = LayoutOptions.CenterAndExpand };
 
+            int id  = 001001;
+
             genre = new Entry    //Entryでgenreコードを入力
             {
                 Placeholder = "GenreIdを入力",
