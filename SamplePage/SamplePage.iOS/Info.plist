@@ -52,5 +52,7 @@
 	<string>カメラを利用してスキャンします</string>
 	<key>MinimumOSVersion</key>
 	<string>10.0</string>
+	<key>XSAppIconAssets</key>
+	<string>Resources/Media.xcassets/AppIcons.appiconset</string>
 </dict>
 </plist>

@@ -308,7 +308,7 @@
     <BundleResource Include="Resources\icon_4\imessenger\icon-messages-transcript-32x24%403x.png" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\icon_4\ios\iTunesArtwork%401x.png" />
+    <AdditionalFiles Include="Resources\icon_4\ios\iTunesArtwork%401x.png" />
   </ItemGroup>
   <ItemGroup>
     <ITunesArtwork Include="Resources\icon_4\ios\iTunesArtwork%402x.png" />
